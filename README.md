@@ -77,8 +77,10 @@ git status
 git remote add origin https://github.com/jdelgado99/react-example.git
 git push -u origin master
 
-git remote add origin https://github.com/jdelgado99/react-example.git
+
 
 
 npm i gh-pages
+npm run build 
+npm run deploy
 
